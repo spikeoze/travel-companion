@@ -32,7 +32,7 @@ function List({
     );
   }, [Places]);
 
-  console.log({ ChildClicked });
+  // console.log({ ChildClicked });
   return (
     <div className={classes.container}>
       <Typography variant="h5">
